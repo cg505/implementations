@@ -1,6 +1,6 @@
 # compiled files
 # ccl
-*.lx64sfl
+*.lx64fsl
 # cmucl
 *.sse2f
 # sbcl
